@@ -2,9 +2,11 @@
 Net Ball Player Analysis Using Machine Learning Techniques - 24-25J-086
 
 **OverView Of the Project**
+
 This project is an innovative system designed to revolutionize netball player performance evaluation through machine learning and data-driven insights. By leveraging pose estimation and advanced machine learning models, the system analyzes key aspects of netball skills, providing coaches and players with objective, accurate, and actionable feedback. The goal is to optimize player development, enhance team strategy, and minimize injury risks in the highly dynamic and fast-paced environment of netball.
 
 **Project Goals**
+
 To replace subjective evaluations with objective, data-driven insights into player performance. 
 
 To create a comprehensive system that integrates skill analysis, and team selection 
