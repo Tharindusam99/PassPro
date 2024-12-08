@@ -6,8 +6,11 @@ This project is an innovative system designed to revolutionize netball player pe
 
 **Project Goals**
 To replace subjective evaluations with objective, data-driven insights into player performance. 
+
 To create a comprehensive system that integrates skill analysis, and team selection 
+
 To provide feedback during training sessions to help players improve techniques instantly. 
+
 To deliver detailed performance reports and visualizations for coaches and players.
 
 **Architectural diagram**
