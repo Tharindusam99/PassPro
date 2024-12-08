@@ -16,6 +16,7 @@ To provide feedback during training sessions to help players improve techniques 
 To deliver detailed performance reports and visualizations for coaches and players.
 
 **Architectural diagram**
+
 ![Screenshot 2024-12-08 104145](https://github.com/user-attachments/assets/cac4b86e-4834-44ac-9851-455bc7877166)
 
 
