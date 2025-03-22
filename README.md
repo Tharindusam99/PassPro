@@ -33,3 +33,28 @@ MediaPipe (mediapipe): Provides pre-trained machine learning models for pose est
 
 NumPy (numpy): Performs efficient numerical computations and manipulations, especially for creating and modifying image arrays (e.g., title bar).
  main
+ 
+**Login As a Player: Ball Handling Skills Analyzer**
+
+![image](https://github.com/user-attachments/assets/fb13605c-557b-4864-b8ce-1e820a4bfb8c)
+
+![image](https://github.com/user-attachments/assets/81bf44e6-d7f0-49d9-a952-8529c3851ad5)
+
+![image](https://github.com/user-attachments/assets/3a107de1-0119-49af-9e6c-355694663d8c)
+
+![image](https://github.com/user-attachments/assets/34adffe8-8460-4a26-8468-b67105923ceb)
+
+![image](https://github.com/user-attachments/assets/e3ac5e5a-99b7-42b4-8f8f-94c8997e4083)
+
+![image](https://github.com/user-attachments/assets/0b8820f4-9790-4df0-a29c-e0ce726186c0)
+
+
+**Login as a Coach: Team Selection**
+
+![image](https://github.com/user-attachments/assets/050fab7e-f5e0-4b49-b5f5-eebe39eebbc8)
+
+![image](https://github.com/user-attachments/assets/8654ccae-41ca-4f43-bef2-842c082864e6)
+
+![image](https://github.com/user-attachments/assets/9934cd3b-e73b-4349-a6ba-af1fb8dd5290)
+
+
